@@ -3,6 +3,9 @@
 
 
 ##    			 Latihan
+
+		txt = 'Hello world'
+
 		• Hitung jumlah karakternya
 		• Ambil karakter terakhir
 		• Ambil karakter index ke-2 sampai index ke-4 (llo)
