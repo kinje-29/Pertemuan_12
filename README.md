@@ -2,7 +2,7 @@
 
 
 
-    			## Latihan
+##    			 Latihan
 		• Hitung jumlah karakternya
 		• Ambil karakter terakhir
 		• Ambil karakter index ke-2 sampai index ke-4 (llo)
@@ -15,9 +15,11 @@
 
 
 
-*gAMBAR 1*
+* GAMBAR 1
 
 ![1.png](/Gambar/1.png)
+
+* Gambar 2
 
 ![2.png](/Gambar/2.png)
 
@@ -35,8 +37,10 @@
 
 
 
-*Gambar 1*
+*Gambar 1
 
 ![1.png](/Gambar2/1.png)
 
-![2.png](/Gambar2/2.png)s 
+* Gambar 2
+
+![2.png](/Gambar2/2.png) 
